@@ -10,3 +10,4 @@ class Solution:
                 profit = prices[p] - prices[smallest_num]
             
         return profit
+        
