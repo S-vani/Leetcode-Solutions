@@ -1,10 +1,10 @@
 class Solution:
     def scoreOfString(self, s: str) -> int:
-        total = 0
+        total_amount = 0
         for letter in range(len(s)-1):
             difference = ord(s[letter]) - ord(s[letter + 1])
-            total += abs(difference)
+            total_amount += abs(difference)
         
-        return total
+        return total_amount
 
         
