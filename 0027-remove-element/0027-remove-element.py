@@ -10,7 +10,8 @@ class Solution:
                     swap = nums[i]
                     nums[i] = nums[index]
                     nums[index] = swap
-                
+            
+        print(nums)
         k = 0
         for n in nums:
             if n != -1:
