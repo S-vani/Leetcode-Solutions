@@ -1,3 +1,15 @@
 # Leetcode-Solutions
 This is a respository with all my leetcode solutions from problems I have done or am working on.
 The file name will say the number of the problem, the name, runtime and memory.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+<!---LeetCode Topics End-->
