@@ -4,12 +4,13 @@
  */
 var lengthOfLastWord = function(s) {
     last = 0
-    string = s.trim(" ")
-
     
-    for (let i = 0; i < string.length; i++){
-        console.log(string[i])
-        if (string[i] !== " "){
+    for (let i = 0; i < s.length; i++){
+        if (s.slice(i, s.length) === " ".repeat(s.length - i)){
+
+            return last
+        }
+        else if (s[i] !== " "){
             last += 1
         }
         else{
