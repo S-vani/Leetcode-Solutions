@@ -9,8 +9,17 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/S-vani/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
