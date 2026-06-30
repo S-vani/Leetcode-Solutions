@@ -19,6 +19,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -38,4 +39,12 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/S-vani/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
