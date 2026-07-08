@@ -15,6 +15,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,10 +51,12 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -62,5 +65,6 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
