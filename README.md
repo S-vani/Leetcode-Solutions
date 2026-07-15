@@ -32,6 +32,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
