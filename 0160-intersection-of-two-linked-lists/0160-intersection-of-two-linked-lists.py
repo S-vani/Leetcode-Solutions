@@ -10,13 +10,13 @@ class Solution:
         B = headB
         Alen = 0
         Blen = 0
-        while B is not None or A is not None:
-            if A is not None:
-                A = A.next
-                Alen += 1
-            if B is not None:
-                B = B.next
-                Blen += 1
+        while A:
+            Alen += 1
+            A = A.next
+        while B:
+            Blen += 1
+            B = B.next
+
         A = headA
         B = headB
         diff = 0
@@ -30,7 +30,7 @@ class Solution:
             while diff > 0:
                 A = A.next
                 diff -= 1
-        while A is not None:
+        while A:
             if A == B:
                 return A
             A = A.next
