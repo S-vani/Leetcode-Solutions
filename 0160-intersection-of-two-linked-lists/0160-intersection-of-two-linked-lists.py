@@ -19,12 +19,14 @@ class Solution:
                 Blen += 1
         A = headA
         B = headB
-        diff = Alen-Blen if Alen>Blen else Blen-Alen
+        diff = 0
         if Alen < Blen:
+            diff = Blen-Alen
             while diff > 0:
                 B = B.next
                 diff -= 1
         else:
+            diff = Alen-Blen
             while diff > 0:
                 A = A.next
                 diff -= 1
