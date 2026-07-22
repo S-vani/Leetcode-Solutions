@@ -19,16 +19,12 @@ class Solution:
                 Blen += 1
         A = headA
         B = headB
-        print(Alen)
-        print(Blen)
-        diff = 0
+        diff = max(Alen,Blen) - min(Alen,Blen)
         if Alen < Blen:
-            diff = Blen-Alen
             while diff > 0:
                 B = B.next
                 diff -= 1
         else:
-            diff = Alen-Blen
             while diff > 0:
                 A = A.next
                 diff -= 1
