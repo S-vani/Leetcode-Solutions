@@ -17,6 +17,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,12 +61,14 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0094-binary-tree-inorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/S-vani/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
