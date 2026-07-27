@@ -12,7 +12,6 @@ class Solution:
                 largest_num_index = i
             elif nums[i] > nums[second_largest_num_index]:
                 second_largest_num_index = i
-            print(f"{largest_num_index} and {second_largest_num_index}")
 
         return _calculate_product(nums[largest_num_index], nums[second_largest_num_index])
             
