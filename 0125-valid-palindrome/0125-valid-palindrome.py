@@ -6,7 +6,6 @@ class Solution:
                 converted_str += letter.lower()
         i = 0
         j = len(converted_str) - 1
-        print(converted_str)
         while i < j:
             if converted_str[i] != converted_str[j]:
                 return False
