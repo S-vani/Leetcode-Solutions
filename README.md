@@ -10,6 +10,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/S-vani/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
