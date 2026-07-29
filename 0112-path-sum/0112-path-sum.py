@@ -14,4 +14,5 @@ class Solution:
             else:
                 return False
         else:
-            return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
+            new_val = targetSum - root.val
+            return self.hasPathSum(root.left, new_val) or self.hasPathSum(root.right, new_val)
