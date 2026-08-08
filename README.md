@@ -11,6 +11,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0058-length-of-last-word](https://github.com/S-vani/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/S-vani/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0344-reverse-string](https://github.com/S-vani/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
