@@ -27,6 +27,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/S-vani/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
@@ -58,10 +59,12 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0344-reverse-string](https://github.com/S-vani/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -114,6 +117,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +134,5 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
