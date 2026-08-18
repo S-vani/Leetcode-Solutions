@@ -43,6 +43,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
