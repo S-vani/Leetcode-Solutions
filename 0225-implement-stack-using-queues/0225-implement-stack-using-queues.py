@@ -20,12 +20,7 @@ class MyStack:
         
 
     def top(self) -> int:
-        while len(self.q1) != 1:
-            self.q2.append(self.q1.popleft())
-        popped = self.q1.popleft()
-
-        while self.q2:
-            self.q1.append(self.q2.popleft())
+        popped = self.pop()
         self.q1.append(popped)
         
         return popped
