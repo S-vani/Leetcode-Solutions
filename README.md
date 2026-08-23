@@ -13,6 +13,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0257-binary-tree-paths](https://github.com/S-vani/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/S-vani/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/S-vani/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/S-vani/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/S-vani/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
