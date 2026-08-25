@@ -33,6 +33,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/S-vani/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/S-vani/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
