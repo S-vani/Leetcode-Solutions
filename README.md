@@ -156,6 +156,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0278-first-bad-version](https://github.com/S-vani/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Backtracking
@@ -180,4 +181,8 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/S-vani/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
