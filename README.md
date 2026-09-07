@@ -49,6 +49,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/S-vani/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/S-vani/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -58,6 +59,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/S-vani/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/S-vani/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/S-vani/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/S-vani/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
