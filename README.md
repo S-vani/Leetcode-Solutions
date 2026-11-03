@@ -30,6 +30,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/S-vani/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/S-vani/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -188,4 +189,8 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/S-vani/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/S-vani/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
