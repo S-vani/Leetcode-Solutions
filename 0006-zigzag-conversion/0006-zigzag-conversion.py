@@ -11,8 +11,6 @@ class Solution:
                 lst[i] = s[n]
                 i += 1
                 n += 1
-                if n == len(s):
-                    break
             zigzag.append(lst)
             z = numRows-2
             while z > 0 and n < len(s):
