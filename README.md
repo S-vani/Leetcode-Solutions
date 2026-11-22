@@ -9,6 +9,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/S-vani/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/S-vani/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/S-vani/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -28,6 +29,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -79,6 +81,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -137,6 +140,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
