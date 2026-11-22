@@ -51,6 +51,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/S-vani/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
@@ -68,6 +69,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/S-vani/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/S-vani/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -156,6 +158,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/S-vani/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/S-vani/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/S-vani/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
