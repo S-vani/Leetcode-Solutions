@@ -29,6 +29,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/S-vani/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -73,6 +74,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/S-vani/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/S-vani/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-vani/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -81,6 +83,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/S-vani/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
