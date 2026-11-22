@@ -1,26 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        copy = strs[:]
+        hashmap = {}
         anagrams = []
-        while len(copy) > 0:
-            fixed_str = copy.pop(0)
-            anagram = [fixed_str]
-            to_be_removed = []
-            for string in copy:
-                str_list = list(fixed_str)
 
-                if len(fixed_str) != len(string):
-                    continue
-                for i in string:
-                    if i in str_list:
-                        str_list.remove(i)
-                if len(str_list) == 0:
-                    anagram.append(string)
-                    to_be_removed.append(string)
-            for s in to_be_removed:
-                copy.remove(s)
-            anagrams.append(anagram) 
+        for s in strs:
+            sorted_s = "".join(sorted(s))
+            if sorted_s in hashmap:
+                hashmap[sorted_s].append(s)
+            else:
+                hashmap[sorted_s] = [s]
+        
+        for h in hashmap:
+            anagrams.append(hashmap[h])
         
         return anagrams
+
 
                     
