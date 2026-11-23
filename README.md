@@ -37,6 +37,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0118-pascals-triangle](https://github.com/S-vani/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/S-vani/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -89,6 +90,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -154,6 +156,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -167,6 +170,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +208,8 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/S-vani/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
