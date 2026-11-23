@@ -31,6 +31,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0015-3sum](https://github.com/S-vani/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/S-vani/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/S-vani/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/S-vani/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -168,6 +169,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/S-vani/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-vani/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/S-vani/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -207,6 +209,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/S-vani/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/S-vani/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
