@@ -41,6 +41,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/S-vani/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/S-vani/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/S-vani/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/S-vani/Leetcode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -60,6 +61,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | [0342-power-of-four](https://github.com/S-vani/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/S-vani/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/S-vani/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/S-vani/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ The file name will say the number of the problem, the name, runtime and memory.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/S-vani/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/S-vani/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +218,12 @@ The file name will say the number of the problem, the name, runtime and memory.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-vani/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/S-vani/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
